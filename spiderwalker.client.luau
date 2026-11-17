@@ -1,4 +1,5 @@
--- procedural wall walking spider by lukakozabijak on discord and YieldForever on roblox
+Connected Discord-Github
+-- procedural wall walking spider by lukayield on discord and YieldForever on roblox
 --!strict
 
 local replicatedstorage = game:GetService("ReplicatedStorage") -- holds the mesh templates the spider is assembled from
