@@ -1,4 +1,4 @@
-Connected Discord-Github
+-- Connected Discord-Github
 -- procedural wall walking spider by lukayield on discord and YieldForever on roblox
 --!strict
 
